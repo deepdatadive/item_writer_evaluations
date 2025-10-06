@@ -1,0 +1,10 @@
+form_name,survey_item,n,pearson_r,pearson_p,spearman_rho,spearman_p,significant
+1000_chat,Survey - History,45,0.109,0.475,0.067,0.6601,No
+1000_chat,Survey - History Knowledge,45,0.533,0.0002,0.397,0.007,Yes
+1000_chat,Survey - General History Knowledge,45,0.496,0.0005,0.371,0.012,Yes
+100_chat,Survey - History,38,0.232,0.1614,0.189,0.2555,No
+100_chat,Survey - History Knowledge,38,0.511,0.001,0.577,0.0001,Yes
+100_chat,Survey - General History Knowledge,38,0.506,0.0012,0.539,0.0005,Yes
+500_chat,Survey - History,49,0.159,0.2737,0.168,0.2477,No
+500_chat,Survey - History Knowledge,49,0.5,0.0003,0.409,0.0035,Yes
+500_chat,Survey - General History Knowledge,49,0.44,0.0015,0.343,0.0158,Yes

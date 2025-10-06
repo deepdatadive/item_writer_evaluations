@@ -1,0 +1,17 @@
+participant_id,condition,item_id,item_type,response,correct,response_time,difficulty
+P001,control,Q001,multiple_choice,A,1,12.5,easy
+P001,control,Q002,multiple_choice,C,0,18.3,medium
+P001,control,Q003,multiple_choice,B,1,25.1,hard
+P001,control,Q004,multiple_choice,D,1,15.7,medium
+P002,control,Q001,multiple_choice,A,1,10.2,easy
+P002,control,Q002,multiple_choice,B,1,15.8,medium
+P002,control,Q003,multiple_choice,B,1,20.5,hard
+P002,control,Q004,multiple_choice,D,1,12.3,medium
+P003,treatment,Q001,multiple_choice,A,1,11.8,easy
+P003,treatment,Q002,multiple_choice,B,1,14.2,medium
+P003,treatment,Q003,multiple_choice,C,0,22.7,hard
+P003,treatment,Q004,multiple_choice,A,0,18.9,medium
+P004,treatment,Q001,multiple_choice,B,0,13.5,easy
+P004,treatment,Q002,multiple_choice,B,1,16.4,medium
+P004,treatment,Q003,multiple_choice,B,1,19.8,hard
+P004,treatment,Q004,multiple_choice,D,1,14.1,medium

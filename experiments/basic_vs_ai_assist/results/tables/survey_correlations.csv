@@ -1,0 +1,9 @@
+form_name,survey_item,n,pearson_r,pearson_p,spearman_rho,spearman_p,significant
+WW2 Form 1 AI Assist questions,history knowledge,26,0.819,0.0,0.711,0.0,Yes
+WW2 Form 1 AI Assist questions,ww2,26,0.847,0.0,0.648,0.0003,Yes
+WW2 Form 1 AI Assist questions,Quiz Feeling Simple,26,0.573,0.0022,0.583,0.0018,Yes
+WW2 Form 1 AI Assist questions,quiz feeling complex,26,-0.055,0.7902,0.006,0.9755,No
+WW2 Form 2 GPT questions,history knowledge,27,0.051,0.7993,0.093,0.6441,No
+WW2 Form 2 GPT questions,ww2,27,0.053,0.7918,0.119,0.5532,No
+WW2 Form 2 GPT questions,Quiz Feeling Simple,27,0.465,0.0145,0.433,0.0239,Yes
+WW2 Form 2 GPT questions,quiz feeling complex,27,-0.211,0.2897,-0.217,0.2762,No

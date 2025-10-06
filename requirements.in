@@ -1,0 +1,47 @@
+# Data Analysis Core
+pandas
+numpy
+scipy
+statsmodels
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter Notebooks
+jupyter
+notebook
+ipykernel
+ipywidgets
+marimo  # Reactive Python notebooks
+
+# Psychometric Analysis
+factor-analyzer
+scikit-learn
+
+# Item Response Theory and Psychometrics
+# pyirt  # Uncomment if needed - may require special installation
+
+# Data I/O and Utilities
+openpyxl  # Excel support
+xlrd  # Excel reading
+tabulate  # Pretty print tables
+
+# Statistical Testing
+pingouin  # Statistical tests
+
+# Data Validation
+pandera  # DataFrame validation
+
+# Progress bars and utilities
+tqdm
+
+# String similarity and text analysis (useful for item comparison)
+python-Levenshtein
+fuzzywuzzy
+
+# Development tools
+black
+flake8
+pytest

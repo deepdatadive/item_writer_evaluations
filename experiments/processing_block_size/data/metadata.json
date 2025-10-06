@@ -1,0 +1,71 @@
+{
+  "experiment_id": "exp001",
+  "experiment_name": "baseline_comparison",
+  "description": "Description of the experiment",
+  "date_started": "YYYY-MM-DD",
+  "date_completed": null,
+  "researchers": [],
+  "status": "planning",
+  
+  "design": {
+    "type": "between_subjects",
+    "conditions": [
+      {
+        "condition_id": "control",
+        "condition_name": "Control",
+        "description": "Control condition description"
+      },
+      {
+        "condition_id": "treatment",
+        "condition_name": "Treatment",
+        "description": "Treatment condition description"
+      }
+    ],
+    "randomization": "complete"
+  },
+  
+  "sample": {
+    "target_n": null,
+    "actual_n": null,
+    "inclusion_criteria": [],
+    "exclusion_criteria": []
+  },
+  
+  "materials": {
+    "ai_models": [],
+    "item_types": [],
+    "total_items": null
+  },
+  
+  "data_files": {
+    "raw": [
+      {
+        "filename": "responses.csv",
+        "format": "long",
+        "date_collected": "YYYY-MM-DD",
+        "description": "Participant responses"
+      }
+    ],
+    "processed": []
+  },
+  
+  "variables": {
+    "participant_vars": [
+      "participant_id",
+      "condition",
+      "demographics"
+    ],
+    "item_vars": [
+      "item_id",
+      "item_type",
+      "difficulty"
+    ],
+    "response_vars": [
+      "response",
+      "correct",
+      "response_time"
+    ]
+  },
+  
+  "notes": ""
+}

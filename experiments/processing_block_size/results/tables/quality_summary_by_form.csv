@@ -1,0 +1,4 @@
+form_name,total_items,too_hard,hard,good_difficulty,easy,too_easy,poor_disc,low_disc,acceptable_disc,good_disc,any_issues,no_issues,mean_difficulty,mean_discrimination
+1000_chat,20,0,1,14,5,0,3,3,6,8,3,17,0.5601,0.25805
+100_chat,20,2,0,11,7,0,5,0,3,12,5,15,0.54015,0.2899999999999999
+500_chat,20,1,1,13,5,0,3,2,5,10,4,16,0.49485,0.27860000000000007
